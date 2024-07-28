@@ -48,13 +48,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import map3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@esm/index.mjs';
+import map3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@v0.2.2-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@esm/index.mjs';
+import { assign } from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@v0.2.2-esm/index.mjs';
 ```
 
 #### map3d( x, shape, fcn\[, thisArg] )
@@ -160,7 +160,7 @@ var discreteUniform = require( 'https://cdn.jsdelivr.net/gh/stdlib-js/random-bas
 import filled3dBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled3d-by@esm/index.mjs';
 import naryFunction from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-nary-function@esm/index.mjs';
 import abs from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-abs@esm/index.mjs';
-import map3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@esm/index.mjs';
+import map3d from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-map3d@v0.2.2-esm/index.mjs';
 
 var shape = [ 3, 3, 3 ];
 
